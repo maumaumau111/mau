@@ -77,13 +77,14 @@ h1{
   }
 
   .tran{
-    font-size: 20px;
-    margin-left: 730px;
-    margin-top: 30px;
-    margin-right: 350px;
-    padding: 10px;
+    font-size: 18px;
+    margin-left: 53%;
+    margin-top: 3%;
+    padding: 5px;
     border: 1px solid rgb(190, 188, 188);
     background-color: rgb(247, 247, 247);
+    width: 22%;
+    text-align: center;
   }
 
   .text2{
